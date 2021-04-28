@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sarvar-hub
 - 👀 I’m interested in Web programming
-- 🌱 I’m currently learning python php [laravel, Django, Vue js]
+- 🌱 I’m currently learning python php [Laravel, Django, Vue js]
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
